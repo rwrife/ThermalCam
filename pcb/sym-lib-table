@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name amg8833)(type Legacy)(uri ${KIPRJMOD}/amg8833.lib)(options "")(descr ""))
+  (lib (name ili9341-hlg-18)(type Legacy)(uri ${KIPRJMOD}/ili9341-hlg-18.lib)(options "")(descr ""))
+  (lib (name arducam_spi)(type Legacy)(uri ${KIPRJMOD}/arducam_spi.lib)(options "")(descr ""))
+  (lib (name esp32_prog)(type Legacy)(uri ${KIPRJMOD}/esp32_prog.lib)(options "")(descr ""))
+  (lib (name ThermalCam-rescue)(type Legacy)(uri ${KIPRJMOD}/ThermalCam-rescue.lib)(options "")(descr ""))
+)
