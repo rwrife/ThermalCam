@@ -4,4 +4,5 @@
   (lib (name arducam_spi)(type Legacy)(uri ${KIPRJMOD}/arducam_spi.lib)(options "")(descr ""))
   (lib (name esp32_prog)(type Legacy)(uri ${KIPRJMOD}/esp32_prog.lib)(options "")(descr ""))
   (lib (name ThermalCam-rescue)(type Legacy)(uri ${KIPRJMOD}/ThermalCam-rescue.lib)(options "")(descr ""))
+  (lib (name EastRising)(type Legacy)(uri ${KIPRJMOD}/EastRising.lib)(options "")(descr ""))
 )
